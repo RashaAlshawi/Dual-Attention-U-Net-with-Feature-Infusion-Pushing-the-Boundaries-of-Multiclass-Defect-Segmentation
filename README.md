@@ -1,4 +1,19 @@
-# Dual-Attention-U-Net-with-Feature-Infusion-Pushing-the-Boundaries-of-Multiclass-Defect-Segmentation
-The DAU-FI Net for semantic segmentation, excelling in challenging scenarios like multiclass imbalanced datasets with limited samples. Through innovative features like multiscale spatial-channel attention and precise feature injection, it enhances object localization accuracy. The core employs a multiscale depth-separable convolution block, complemented by a spatial-channel squeeze and excitation (scSE) unit. Additive attention gates connect encoder-decoder pathways, further refining segmentation results.
-![Alt Text](DAU_FI_2.png)
-The Proposed Dual Attentive U-Net with Feature Infusion (DAU-FI Net) Architecture 
+# DAU-Net: A Dual-Attentive U-Net for Enhanced Semantic Segmentation in Underground Infrastructure Inspection
+
+## Overview
+DAU-Net is a pioneering deep learning model tailored to meet the demands of industries involved in infrastructure inspection and public safety. Designed to detect defects in sewer and culvert pipes, DAU-Net analyzes CCTV footage, offering unparalleled performance in environments where manual inspection is not only challenging but also costly and risky.
+
+## Real-World Applications and Value
+
+Infrastructure failures can have severe consequences on businesses and communities. DAU-Net:
+
+** Reduces Costs: Accelerates the inspection process for technicians and engineers, saving time and lowering operational expenses.
+** Enhances Safety: Automates inspections in hazardous environments, mitigating risks for human inspectors.
+** Increases Accuracy: Provides consistent and reliable detection of structural defects, supporting timely repairs and preventative maintenance.
+
+## Performance Highlights
+ DAU-Net has demonstrated state-of-the-art performance:
+** Culvert-Sewer Dataset: Achieves a 75.9% mean Intersection over Union (IoU), outperforming previous models by over 30%.
+** Cell Nuclei Benchmark: Records an 83.6% mean IoU, showcasing broad applicability across datasets with complex structures.
+
+![Alt Text](DAU_FI_2 (2) (1).png)
