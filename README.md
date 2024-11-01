@@ -7,13 +7,13 @@ DAU-Net is a pioneering deep learning model tailored to meet the demands of indu
 
 Infrastructure failures can have severe consequences on businesses and communities. DAU-Net:
 
-** Reduces Costs: Accelerates the inspection process for technicians and engineers, saving time and lowering operational expenses.
-** Enhances Safety: Automates inspections in hazardous environments, mitigating risks for human inspectors.
-** Increases Accuracy: Provides consistent and reliable detection of structural defects, supporting timely repairs and preventative maintenance.
+** Reduces Costs: Accelerates the inspection process for technicians and engineers, saving time and lowering operational expenses.  
+** Enhances Safety: Automates inspections in hazardous environments, mitigating risks for human inspectors.  
+** Increases Accuracy: Provides consistent and reliable detection of structural defects, supporting timely repairs and preventative maintenance.  
 
 ## Performance Highlights
- DAU-Net has demonstrated state-of-the-art performance:
-** Culvert-Sewer Dataset: Achieves a 75.9% mean Intersection over Union (IoU), outperforming previous models by over 30%.
-** Cell Nuclei Benchmark: Records an 83.6% mean IoU, showcasing broad applicability across datasets with complex structures.
+ DAU-Net has demonstrated state-of-the-art performance:  
+** Culvert-Sewer Dataset: Achieves a 75.9% mean Intersection over Union (IoU), outperforming previous models by over 30%.  
+** Cell Nuclei Benchmark: Records an 83.6% mean IoU, showcasing broad applicability across datasets with complex structures.  
 
 ![Alt Text](DAU_FI_2 (2) (1).png)
