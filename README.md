@@ -16,4 +16,4 @@ Infrastructure failures can have severe consequences on businesses and communiti
 ** Culvert-Sewer Dataset: Achieves a 75.9% mean Intersection over Union (IoU), outperforming previous models by over 30%.  
 ** Cell Nuclei Benchmark: Records an 83.6% mean IoU, showcasing broad applicability across datasets with complex structures.  
 
-![Alt Text](DAU_FI_2 (2) (1).png)
+![Alt Text]([DAU_FI_2 (2) (1).png](https://github.com/RashaAlshawi/Dual-Attention-U-Net-with-Feature-Infusion-Pushing-the-Boundaries-of-Multiclass-Defect-Segmentation/blob/main/DAU_FI_2%20(2)%20(1).png))
